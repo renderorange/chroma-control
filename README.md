@@ -61,6 +61,10 @@ Chroma Control communicates with Chroma via **stateless OSC over UDP**. This mea
 
 This design provides low latency and simplicity but means the TUI does not receive confirmation that commands were received.
 
+## Interface
+
+See [images/](images/) for screenshots.
+
 ## Quick Start
 
 ```bash
